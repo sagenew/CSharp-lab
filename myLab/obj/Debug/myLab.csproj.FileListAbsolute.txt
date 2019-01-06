@@ -1,0 +1,7 @@
+D:\Course 2\prog\C#\myLab\myLab\bin\Debug\myLab.exe.config
+D:\Course 2\prog\C#\myLab\myLab\bin\Debug\myLab.exe
+D:\Course 2\prog\C#\myLab\myLab\bin\Debug\myLab.pdb
+D:\Course 2\prog\C#\myLab\myLab\obj\Debug\myLab.csprojAssemblyReference.cache
+D:\Course 2\prog\C#\myLab\myLab\obj\Debug\myLab.csproj.CoreCompileInputs.cache
+D:\Course 2\prog\C#\myLab\myLab\obj\Debug\myLab.exe
+D:\Course 2\prog\C#\myLab\myLab\obj\Debug\myLab.pdb
